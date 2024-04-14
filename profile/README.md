@@ -2,6 +2,12 @@
 
 🌡 Trong bối cảnh thị trường Game đang "nóng" như hiện nay, có một nhu cầu lớn cho không gian và tổ chức nơi bạn trẻ có thể phát triển khả năng trong lĩnh vực game. Đáp ứng nhu cầu đó, **Game Creators Club (GCC)** được thành lập như một cộng đồng cho sinh viên mang ước mơ sáng tạo game.
 
+
+## Một số bài viết
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🏠 **Mục tiêu của GCC:**
 - Tạo điều kiện giao lưu, học hỏi và đồng hành cho các bạn trẻ đam mê Game.
 - Hỗ trợ sự trưởng thành của sinh viên, khuyến khích theo đuổi đam mê trong một môi trường năng động và tích cực.
