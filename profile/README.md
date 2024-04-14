@@ -6,6 +6,16 @@
 ## Một số bài viết
 
 <!-- BLOG-POST-LIST:START -->
+- [Các Công Cụ Hỗ Trợ Phát Triển Game](https://blog.gcchanoi.com/post/20240324_cac_cong_cu_phat_trien_game)
+- [[Part 2] Chicken Invader: Những sự thật thú vị về các trò chơi kinh điển](https://blog.gcchanoi.com/post/20231113_nhung_su_that_thu_vi_ve_cac_tro_choi_kinh_dien_2)
+- [[Part 1] Pacman: Những sự thật thú vị về các trò chơi kinh điển](https://blog.gcchanoi.com/post/20231106_nhung_su_that_ve_cac_tro_choi_pac_man)
+- [Những điều cần chuẩn bị trước khi tham gia học quân sự](https://blog.gcchanoi.com/post/20231029_nhung_dieu_can_chuan_bi_truoc_khi_tham_gia_hoc_quan_su)
+- [Recap First Meeting GCC 2023](https://blog.gcchanoi.com/post/20231023_recap_first_meeting_gcc_2023)
+- [Recap phỏng vấn GCC 2023](https://blog.gcchanoi.com/post/20231008_recap_vong_phong_van_Gcc_2023)
+- [Giới thiệu sản phẩm - Sweet Battle](https://blog.gcchanoi.com/post/20230923_gioi_thieu_san_pham_sweet_battle)
+- [SỰ KIỆN TUYỂN THÀNH VIÊN GEN 1](https://blog.gcchanoi.com/post/20230917_tuyen_thanh_vien_gen_1)
+- [Giới Thiệu Game Creators Club](https://blog.gcchanoi.com/post/20230826_gioi_thieu_clb)
+- [Cần những kiến thức gì để tạo ra 1 sản phẩm Game](https://blog.gcchanoi.com/post/20230822_can_kien_thuc_gi_lam_game)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏠 **Mục tiêu của GCC:**
