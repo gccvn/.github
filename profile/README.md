@@ -6,6 +6,8 @@
 ## Một số bài viết
 
 <!-- BLOG-POST-LIST:START -->
+- [[KHÁM PHÁ CÁC VỊ TRÍ TRONG STUDIO GAME #1]](https://blog.gcchanoi.com/post/2024_05_24_kham_pha_cac_vi_tri_trong_studio_game_1)
+- [👀 [Những sự thật thú vị có thể bạn chưa biết về Flappy Bird] 👀](https://blog.gcchanoi.com/post/2024_05_16__nhung_su_that_thu_vi_co_the_ban_chua_biet_ve_flappy_bird_)
 - [❓ Game Designer là gì ❓](https://blog.gcchanoi.com/post/2024_04_01__game_designer_la_gi_)
 - [Các Công Cụ Hỗ Trợ Phát Triển Game](https://blog.gcchanoi.com/post/20240324_cac_cong_cu_phat_trien_game)
 - [RECAP S2B’S 11TH BIRTHDAY](https://blog.gcchanoi.com/post/2024_03_14_recap_s2bs_11th_birthday)
@@ -14,8 +16,6 @@
 - [[NHỮNG ĐIỀU SINH VIÊN CẦN LƯU Ý SAU KHI KẾT THÚC KÌ NGHỈ TẾT]](https://blog.gcchanoi.com/post/2024_02_18_nhung_dieu_sinh_vien_can_luu_y_sau_khi_ket_thuc_ki_nghi_tet)
 - [[RECAP BIG GAME TRAINING]](https://blog.gcchanoi.com/post/2024_01_09_recap_big_game_training)
 - [[Part 2] Chicken Invader: Những sự thật thú vị về các trò chơi kinh điển](https://blog.gcchanoi.com/post/20231113_nhung_su_that_thu_vi_ve_cac_tro_choi_kinh_dien_2)
-- [[Part 1] Pacman: Những sự thật thú vị về các trò chơi kinh điển](https://blog.gcchanoi.com/post/20231106_nhung_su_that_ve_cac_tro_choi_pac_man)
-- [Những điều cần chuẩn bị trước khi tham gia học quân sự](https://blog.gcchanoi.com/post/20231029_nhung_dieu_can_chuan_bi_truoc_khi_tham_gia_hoc_quan_su)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏠 **Mục tiêu của GCC:**
