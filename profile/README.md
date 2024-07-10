@@ -6,6 +6,7 @@
 ## Một số bài viết
 
 <!-- BLOG-POST-LIST:START -->
+- [🔥🔥🔥PTIT CHÍNH THỨC CÓ CLB DÀNH RIÊNG CHO CÁC BẠN ĐAM MÊ SÁNG TẠO GAME](https://blog.gcchanoi.com/post/2024_07_02_ptit_chinh_thuc_co_clb_danh_rieng_cho_cac_ban_dam_me_sang_tao_game)
 - [⌛️Lịch sử và xu thế phát triển của game artist ⏳](https://blog.gcchanoi.com/post/2024_06_23_lich_su_va_xu_the_phat_trien_cua_game_artist_)
 - [Khám Phá Bí Ẩn Where My Water? - Trò Chơi Giải Đố Gây Nghiện!🐊🚿](https://blog.gcchanoi.com/post/2024_06_17_kham_pha_bi_an_wheres_my_water__tro_choi_giai_do_gay_nghien)
 - [[ GIỚI THIỆU VỀ GCC]](https://blog.gcchanoi.com/post/2024_06_10__gioi_thieu_ve_gcc)
@@ -15,7 +16,6 @@
 - [❓ Game Designer là gì ❓](https://blog.gcchanoi.com/post/2024_04_01__game_designer_la_gi_)
 - [Các Công Cụ Hỗ Trợ Phát Triển Game](https://blog.gcchanoi.com/post/20240324_cac_cong_cu_phat_trien_game)
 - [RECAP S2B’S 11TH BIRTHDAY](https://blog.gcchanoi.com/post/2024_03_14_recap_s2bs_11th_birthday)
-- [💮 CHỊ VÕ THỊ SÁU - HÌNH ẢNH NGƯỜI CON GÁI VIỆT TRONG KHÁNG CHIẾN 💮](https://blog.gcchanoi.com/post/2024_03_08_chi_vo_thi_sau__hinh_anh_nguoi_con_gai_viet_trong_khang_chien_)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏠 **Mục tiêu của GCC:**
